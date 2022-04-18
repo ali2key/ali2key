@@ -1,7 +1,6 @@
 ### Hi there 👋
--### 🔭 I’m currently working on my personal website and StatusPage for `TON Blockchain`.
+<!-- ### 🔭 I’m currently working on my personal website and StatusPage for `TON Blockchain`.
 
-<!--
 **ali2key/ali2key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
